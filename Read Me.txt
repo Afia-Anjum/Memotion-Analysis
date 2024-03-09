@@ -1,0 +1,8 @@
+INTRO TO NLP CMPUT 501 Final Project (Memotion Analysis)
+
+Afia Anjum (ccid: afia) and Shruthi Ravishankar(ccid: shruthi)
+
+Please place the file cleanedproject.py, the training csv file (data_7000_new.csv) and the 
+testing csv file (data1.csv) into the same folder. 
+
+Run the program to see the outputs of Naive Bayes Classifier and Logistic Regression classifier.
